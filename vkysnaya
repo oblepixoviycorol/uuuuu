@@ -1,0 +1,66 @@
+<html>
+    <main>
+        <header>
+            <a>Персонажи</a>
+            <a>Оружие</a>
+            <a>NPC</a>
+            <a>Растения и предметы</a>
+            <a>Маунты</a>
+        </header>
+        <body>
+            <div class="mainblock">
+            <h1>Soul knight</h1>
+            <img class="qw" src="https://cdn-www.bluestacks.com/bs-images/bg198.jpg">
+            </div>
+            <article class="zxc">
+            <p>Тетрадь смерти <br> <br>
+            Урон:∞<br>
+            Затратность:6
+         </p>
+            <img class="qq" src="https://tiermaker.com/images/chart/chart/all-soul-knight-weapons-116410/screenshot2019-12-19-the-codepng.png">
+            </article>
+            <article class="zxc">
+            <p>Один удар <br> <br>
+            Урон:∞<br>
+            Затратность:99
+         </p>
+            <img class="qq" src="https://pm1.aminoapps.com/6827/636b068ed4df4c32d33bccefcd93561b4748cf6av2_00.jpg">
+            
+            </article>
+            
+            <article class="zxc">
+            <p>Супердруг <br> <br>
+            Урон:500<br>
+            Затратность:50
+         </p>
+            <img class="qq" src="">
+            
+            </article>
+            <article class="zxc">
+            <p>Дополнительная корона <br> <br>
+            Урон:0<br>
+            Затратность:5
+         </p>
+            <img class="qq" src="https://i.ytimg.com/vi/l7sMSh0VwQs/sddefault.jpg">
+            
+            </article>
+            
+            <article class="zxc">
+            <p>Накалибур <br> <br>
+            Урон:30<br>
+            Затратность:20
+         </p>
+            <img class="qq" src="https://pm1.aminoapps.com/7633/1b91669d58bfd05add2093e7731482492d9560eer1-1200-1732v2_hq.jpg">
+            
+            </article>
+            <article class="zxc">
+            <p>Громовой меч <br> <br>
+            Урон:8,3<br>
+            Затратность:6
+         </p>
+            <img class="qq" src="https://static.wikia.nocookie.net/soul-knight/images/7/7e/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BC%D0%B5%D1%87.png/revision/latest?cb=20220415225703&path-prefix=ru">
+            
+            </article>
+        </body>
+    </main>
+</html>
